@@ -1,0 +1,81 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 19 Aug 2022 00:48:59 at https://www.almusafir.work/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.almusafir.work/ -O "/home/mina/websites/newstyle" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:49:31	Warning: 	Found for ajax.googleapis.com/
+00:49:31	Warning: 	File has moved from ajax.googleapis.com/ to https://developers.google.com/speed/libraries/devguide
+00:49:32	Warning: 	Moved Permanently for www.google-analytics.com/
+00:49:32	Warning: 	File has moved from www.google-analytics.com/ to https://www.google.com/analytics/
+00:49:33	Warning: 	Moved Permanently for googleads.g.doubleclick.net/
+00:49:33	Warning: 	File has moved from googleads.g.doubleclick.net/ to https://marketingplatform.google.com/about/enterprise/
+00:49:34	Error: 	"Not Found" (404) at link www.googletagservices.com/ (from https://www.almusafir.work/)
+00:49:35	Error: 	"Not Found" (404) at link pagead2.googlesyndication.com/ (from https://www.almusafir.work/)
+00:49:37	Error: 	"Not Found" (404) at link adservice.google.ca/ (from https://www.almusafir.work/)
+00:49:38	Error: 	"Not Found" (404) at link adservice.google.com/ (from https://www.almusafir.work/)
+00:49:39	Error: 	"Not Found" (404) at link resources.blogblog.com/ (from https://www.almusafir.work/)
+00:49:40	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://www.almusafir.work/)
+00:49:41	Error: 	"Bad Request" (400) at link 1.bp.blogspot.com/ (from https://www.almusafir.work/)
+00:49:42	Error: 	"Bad Request" (400) at link 2.bp.blogspot.com/ (from https://www.almusafir.work/)
+00:49:43	Error: 	"Bad Request" (400) at link 3.bp.blogspot.com/ (from https://www.almusafir.work/)
+00:49:44	Error: 	"Bad Request" (400) at link 4.bp.blogspot.com/ (from https://www.almusafir.work/)
+00:49:45	Warning: 	Note: due to disqus.com remote robots.txt rules, links beginning with these path will be forbidden: /reset, /forgot (see in the options to disable this)
+00:49:45	Warning: 	MOVED PERMANENTLY for disqus.com/
+00:49:45	Warning: 	Redirected link is identical because of 'URL Hack' option: disqus.com/ and https://disqus.com/
+00:49:45	Warning: 	File has moved from disqus.com/ to https://disqus.com/
+00:49:46	Warning: 	Moved Permanently for github.com/robots.txt
+00:49:46	Warning: 	Redirected link is identical because of 'URL Hack' option: github.com/robots.txt and https://github.com/robots.txt
+00:49:46	Warning: 	Warning moved treated for github.com/robots.txt (real one is https://github.com/robots.txt)
+00:49:46	Warning: 	Moved Permanently for github.com/
+00:49:46	Warning: 	Redirected link is identical because of 'URL Hack' option: github.com/ and https://github.com/
+00:49:46	Warning: 	File has moved from github.com/ to https://github.com/
+00:49:47	Error: 	"Bad Request" (400) at link cdn.rawgit.com/ (from https://www.almusafir.work/)
+00:49:48	Warning: 	Moved Permanently for fontawesome.com/robots.txt
+00:49:48	Warning: 	Redirected link is identical because of 'URL Hack' option: fontawesome.com/robots.txt and https://fontawesome.com/robots.txt
+00:49:48	Warning: 	Warning moved treated for fontawesome.com/robots.txt (real one is https://fontawesome.com/robots.txt)
+00:49:48	Warning: 	Moved Permanently for fontawesome.com/
+00:49:48	Warning: 	Redirected link is identical because of 'URL Hack' option: fontawesome.com/ and https://fontawesome.com/
+00:49:48	Warning: 	File has moved from fontawesome.com/ to https://fontawesome.com/
+00:49:49	Warning: 	Moved Permanently for www.sharethis.com/robots.txt
+00:49:49	Warning: 	Redirected link is identical because of 'URL Hack' option: www.sharethis.com/robots.txt and https://www.sharethis.com/robots.txt
+00:49:49	Warning: 	Warning moved treated for www.sharethis.com/robots.txt (real one is https://www.sharethis.com/robots.txt)
+00:49:49	Warning: 	Moved Permanently for www.sharethis.com/
+00:49:49	Warning: 	Redirected link is identical because of 'URL Hack' option: www.sharethis.com/ and https://www.sharethis.com/
+00:49:49	Warning: 	File has moved from www.sharethis.com/ to https://www.sharethis.com/
+00:49:50	Warning: 	Moved Permanently for cdn.jsdelivr.net/robots.txt
+00:49:50	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.jsdelivr.net/robots.txt and https://cdn.jsdelivr.net/robots.txt
+00:49:50	Warning: 	Warning moved treated for cdn.jsdelivr.net/robots.txt (real one is https://cdn.jsdelivr.net/robots.txt)
+00:49:50	Warning: 	Moved Permanently for cdn.jsdelivr.net/
+00:49:50	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.jsdelivr.net/ and https://cdn.jsdelivr.net/
+00:49:50	Warning: 	File has moved from cdn.jsdelivr.net/ to https://cdn.jsdelivr.net/
+00:49:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.almusafir.work/feeds/posts/default
+00:49:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.almusafir.work/favicon.ico
+00:49:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.almusafir.work/feeds/posts/default?alt=rss
+00:49:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.blogger.com/feeds/398794578096543018/posts/default
+00:49:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://4.bp.blogspot.com/-8bEbTaOgAkY/XbzCXRZh1qI/AAAAAAAAATc/Amhf597E2QkleZBde4oigJapzMAciwcuACLcBGAsYHQ/s1600/Course+template+ava.png
+00:49:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://blogger.googleusercontent.com/img/a/AVvXsEhIE4vN7rFpcJ8H4JasD_q8AnZ-EDWHj7jwRzCwwsbLgbl8dW7cc8GQOrLMQaJDiu6X3ifU-Svl1YSKggJdZ4VvxGqqR74VlDANZF6B0-sLvp-pUKbvnTJsxpXfw_DJ5nckDl7U1KiiztSdjIRz2-0M68cbWzePjZCWkngmgl4t5QWi9QgyY3-gglPIqA=s170
+00:49:56	Error: 	"Not Found" (404) at link https://www.blogger.com/openid-server.g (from https://www.almusafir.work/)
+00:50:05	Warning: 	HTML file (604 bytes) retransferred due to lack of cache: github.com/
+00:50:06	Warning: 	Moved Permanently for github.com/
+00:50:06	Warning: 	Redirected link is identical because of 'URL Hack' option: github.com/ and https://github.com/
+00:50:06	Warning: 	File has moved from github.com/ to https://github.com/
+00:50:06	Warning: 	HTML file (614 bytes) retransferred due to lack of cache: fontawesome.com/
+00:50:07	Warning: 	Moved Permanently for fontawesome.com/
+00:50:07	Warning: 	Redirected link is identical because of 'URL Hack' option: fontawesome.com/ and https://fontawesome.com/
+00:50:07	Warning: 	File has moved from fontawesome.com/ to https://fontawesome.com/
+00:50:07	Warning: 	HTML file (618 bytes) retransferred due to lack of cache: www.sharethis.com/
+00:50:08	Warning: 	Moved Permanently for www.sharethis.com/
+00:50:08	Warning: 	Redirected link is identical because of 'URL Hack' option: www.sharethis.com/ and https://www.sharethis.com/
+00:50:08	Warning: 	File has moved from www.sharethis.com/ to https://www.sharethis.com/
+00:50:08	Warning: 	HTML file (616 bytes) retransferred due to lack of cache: cdn.jsdelivr.net/
+00:50:09	Warning: 	Moved Permanently for cdn.jsdelivr.net/
+00:50:09	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.jsdelivr.net/ and https://cdn.jsdelivr.net/
+00:50:09	Warning: 	File has moved from cdn.jsdelivr.net/ to https://cdn.jsdelivr.net/
+00:50:09	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.almusafir.work/)
+00:50:09	Error: 	"Not Found" (404) at link https://4bp.blogspot.com/-wPnHg2YjpRE/W4mzj8Cw2XI/AAAAAAAAEcY/uL4FT8j8J08-p0kaqt0VsjZzy_y4j39eACLcBGAs/s100/cuahangtemplate-message.png (from https://www.almusafir.work/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 10 seconds : 69 links scanned, 30 files written (1107881 bytes overall) [690434 bytes received at 9863 bytes/sec], 693113 bytes transferred using HTTP compression in 28 files, ratio 31%
+(14 errors, 56 warnings, 0 messages)
